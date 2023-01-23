@@ -1,0 +1,213 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Domitille",
+      "specialty": "Dermatologue",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Constance",
+      "specialty": "Médecin urologue",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mardi 23 Mai",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Clémence",
+      "specialty": "Médecin généraliste",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Richard",
+      "specialty": "Médecin généraliste",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Raph",
+      "specialty": "Kinésithérapeute",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Noémie",
+      "specialty": "Kinésithérapeute",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Thomas",
+      "specialty": "Dermatologue",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Ludovic",
+      "specialty": "Radiologue",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Fatima",
+      "specialty": "Médecin du travail",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Clément",
+      "specialty": "Kinésithérapeute",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Constance",
+      "specialty": "Dermatologue",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Jade",
+      "specialty": "Médecin du travail",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Cyrielle",
+      "specialty": "Radiologue",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Ilham",
+      "specialty": "Dermatologue",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Martin",
+      "specialty": "Médecin du travail",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Victor",
+      "specialty": "Médecin généraliste",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Marine",
+      "specialty": "Kinésithérapeute",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Xavier",
+      "specialty": "Médecin généraliste",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Max",
+      "specialty": "Médecin généraliste",
+      "address": "1 rue de Saint Petersbourg",
+      "availabilities": [
+        "Mercredi 6 janvier",
+        "Jeudi 7 janvier",
+        "Vendredi 8 janvier"
+      ]
+    }
+  ]
+}
