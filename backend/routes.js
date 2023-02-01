@@ -15,6 +15,8 @@ app.get("/", cors(corsOptions), function (req, res) {
   res.end("Hello world !");
 });
 
-app.listen(80, function () {
+const server = app.listen(80, function () {
   console.log("CORS-enabled web server listening on port 80");
 });
+
+module.exports = server;
