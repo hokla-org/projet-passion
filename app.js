@@ -4,7 +4,8 @@ import { existsSync } from "https://deno.land/std@0.171.0/fs/exists.ts";
 
 export const handleRequest = async (request) => {
   const url = new URL(request.url);
-  const path = `${Deno.cwd()}/frontend/static${url.pathname}`;
+  const path = `${Deno.cwd()}/frontend${url.pathname}`;
+
   if (!request.url.endsWith("/") && existsSync(path)) {
     return await serveFile(request, path);
   } else {

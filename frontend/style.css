@@ -1,0 +1,10 @@
+.firstDiv {
+  background-color: blue;
+}
+
+.secondDiv {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
