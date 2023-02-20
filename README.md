@@ -12,6 +12,8 @@ Ce projet a été créé de façon à ce que tu puisses travailler dessus de fa�
 
 ## Comment installer et lancer le projet ?
 
+Avant toute chose, je t'invite à "forker" ce projet, c'est à dire en créer un copie afin de ne pas modifier l'original. Tu peux le faire en cliquant sur le bouton "Fork" sur github, en haut à droite de ton écran.
+
 ### Installation
 
 Pour commencer le projet, il te faudra avoir installé Node et Deno.
