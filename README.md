@@ -12,7 +12,7 @@ Ce projet a été créé de façon à ce que tu puisses travailler dessus de fa�
 
 ## Comment installer et lancer le projet ?
 
-Avant toute chose, je t'invite à "forker" ce projet, c'est à dire en créer un copie afin de ne pas modifier l'original. Tu peux le faire en cliquant sur le bouton "Fork" sur github, en haut à droite de ton écran.
+Avant toute chose, je t'invite à "forker" ce projet, c'est à dire en créer un copie afin de ne pas modifier l'original. Tu peux le faire en cliquant sur le bouton "Fork" sur github, en haut à droite de ton écran. Une fois fait, tu peux cloner le dépôt le dépôt tout juste créé sur ton ordinateur. Si tu ne sais pas faire, tu peux te référer au ticket du Trello https://trello.com/c/iiuNEt4I/7-etqdev-jai-clon%C3%A9-le-projet-sur-mon-ordinateur 
 
 ### Installation
 
