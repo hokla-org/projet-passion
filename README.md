@@ -22,7 +22,7 @@ Pour installer node, tu peux suivre télécharger et lancer le fichier d’insta
 
 **Check**
 
-En allant dans ton terminal, la commande « node --version » devrait afficher la version de node
+En allant dans ton terminal, la commande `node --version` devrait afficher la version de node
 
 #### Deno
 
@@ -30,12 +30,20 @@ Finalement, pour deno, suis le tutoriel: https://deno.land/manual@v1.29.4/gettin
 
 ### Lancement
 
-Maintenant, tu peux lancer le projet. À l'aide de ton terminal, déplace-toi dans le projet et lance la commence « yarn »
+Maintenant, tu peux lancer le projet. À l'aide de ton terminal, déplace-toi dans le projet et lance la commence 
+```
+yarn
+```
 
 Dans une première fenêtre de ton terminal, vas dans le dossier backend et lance la commande:
-« node routes.js »
+```
+node routes.js 
+```
+
 Dans une seconde fenêtre de ton terminal, vas ans le dossier frontend et lance la commande
-« deno run --allow-net --allow-read --watch app.js »
+```
+deno run --allow-net --allow-read --watch app.js
+```
 ‌
 
 Tu peux maintenant ouvrir ton navigateur et aller sur l’url http://localhost:3000/index.html
