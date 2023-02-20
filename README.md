@@ -14,7 +14,7 @@ Ce projet a été créé de façon à ce que tu puisses travailler dessus de fa�
 
 ### Installation
 
-Pour commencer le projet, il te faudra avoir installé Node, Express et Deno.
+Pour commencer le projet, il te faudra avoir installé Node et Deno.
 
 #### Node
 
@@ -23,10 +23,6 @@ Pour installer node, tu peux suivre télécharger et lancer le fichier d’insta
 **Check**
 
 En allant dans ton terminal, la commande « node --version » devrait afficher la version de node
-
-#### Express
-
-Pour installer Express, tu peux suivre le tutoriel suivant: https://expressjs.com/fr/starter/installing.html
 
 #### Deno
 
@@ -44,25 +40,5 @@ Dans une seconde fenêtre de ton terminal, vas ans le dossier frontend et lance 
 
 Tu peux maintenant ouvrir ton navigateur et aller sur l’url http://localhost:3000/index.html
 
-## Créer une pull request
 
 Maintenant que tu as lancé le projet, tu peux commencer à t'amuser avec !
-
-Mais attention, pour chaque ticket que tu développes, n'oublie pas de créer une branche git avant de commencer en lançant les commandes suivantes sur ton terminal:
-
-```
-git checkout main
-```
-
-```
-git pull
-```
-
-```
-git checkout -b nom_de_la_branche_du_ticket
-```
-
-Une fois que tu as fini de développer ton ticket, tu peux pousser tes changements et faire une pull request. Cela permet à ton coach de relire ce que tu as fait avant que tu ne le merge dans la branche principale.
-Pour créer une pull request, tu peux aller sur github et cliquer sur le bouton New pull request puis sélectionner le nom de ta branche et "main".
-
-💡 Astuce: Si tu n'as jamais utilisé Git et que toutes ces commandes te semblent compliquées, réfère toi au ticket "ETQDev, je sais utiliser Git" dans le Trello:
